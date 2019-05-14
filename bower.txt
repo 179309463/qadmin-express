@@ -1,0 +1,317 @@
+├── bootstrap-daterangepicker#2.1.27 (latest is 3.0.3)
+├── smooth-scroll#12.1.5 (latest is 16.0.3)
+
+Flot的水平堆叠条形图
+bootstrap-colorpicker#2.5.3 不能升级
+ladda#1.0.6 不能升级
+font-awesome#4.7.0 不能升级
+fullpage.js#2.9.7 不能升级 license
+to-markdown 不能升级
+
+IE 11 兼容性检查
+1）图片轮播/邮件模板
+2）菜单树第一个
+3）右键菜单
+4）jquery.jquery_appear/简单时间轴/图标时间轴
+5）引用Blockquote
+6) fullcalendar日历，多重滚动条
+7）表单中的form-group
+
+{
+  "name": "qadmin",
+  "description": "使用express框架搭建项目",
+  "main": "server/app.js",
+  "license": "ISC",
+  "homepage": "https://github.com/179309463/qadmin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ace-builds": "ace-build#1.4.3",
+    "alertifyjs": "^1.0.11",
+        ember???
+        vue-alertify & alertifyjs OK
+        react-alertify-js & alertifyjs OK
+        ng-alertify & alertifyjs OK
+    "animsition": "^4.0.2",
+    "autosize": "^4.0.0",
+    "blueimp-canvas-to-blob": "^3.14.0",
+    "blueimp-tmpl": "^3.11.0",
+    "blueimp-load-image": "2.21.0",
+    "blueimp-file-upload": "9.28.0",
+    "bootbox.js": "5.1.0",
+        ember???
+        vue???
+        react-bootboxjs & bootbox OK
+        ngBootbox & bootbox OK
+    "bootstrap-contextmenu": "^0.3.4",
+    "bootstrap-colorpicker": "2.5.3",
+    "bootstrap-datepicker": "1.8.0",
+        ember-cli-bootstrap-datepicker & bootstrap-datepicker OK
+        vue???
+        react???
+        angular-bootstrap-datepicker & bootstrap-datepicker OK
+    "bootstrap-hover-dropdown": "^2.2.1",
+        无
+    "bootstrap-markdown": "^2.10.0",
+    "bootstrap-maxlength": "^1.7.0",
+    "bootstrap-select": "2.0.0-beta1",
+    "bootstrap-sweetalert": "^1.0.1",
+        sweetalert2!!!
+        ember-cli-sweet-alert not bootstrap-sweetalert OK
+        vue-sweetalert2 & bootstrap-sweetalert OK
+        react-bootstrap-sweetalert not bootstrap-sweetalert OK
+        ngx-sweetalert2 not bootstrap-sweetalert OK
+    "bootstrap-tagsinput": "^0.8.0",
+    "bootstrap-tokenfield": "^0.12.1",
+    "bootstrap-touchspin": "4.2.5",
+    "bootstrap-treeview": "^1.2.0",
+        ember???
+        vue???
+        react-bootstrap-treeview & bootstrap-treeview OK
+        ngx-bootstrap-treeview not bootstrap-treeview OK
+    "breakpoints.js": "^1.0.5",
+    "c3": "0.7.0",
+    "card": "^2.4.0",
+    "chart.js": "2.8.0",
+    "chartist": "^0.11.0",
+        ember-cli-chartist & chartist OK
+        vue-chartist & chartist OK
+        react-chartist & chartist OK
+        ngx-chartist & chartist OK
+    "chartist-plugin-tooltip": "^0.0.18",
+    "clockpicker": "^0.0.7",
+    "codemirror": "5.45.0",
+        ivy-codemirror & codemirror OK
+        vue-codemirror & codemirror OK
+        react-codemirror & codemirror OK
+        @ctrl/ngx-codemirror codemirror & codemirror OK
+    "cropper": "4.0.0",
+    "datatables": "^1.10.16",
+    "datatables-bootstrap": "^1.0.0",
+    "datatables-buttons": "1.5.6",
+    "datatables-fixedheader": "^3.1.3",
+    "datatables-responsive": "^2.2.0",
+    "datepair.js": "^0.4.15",
+    "draggabilly": "^2.1.1",
+    "dropify": "^0.2.2",
+    "echarts": "4.2.1",
+    "flag-icon-css": "3.3.0",
+    "gridstack": "0.4.0",
+        ember-gridstack & gridstack OK
+        react-gridstack & gridstack OK
+        gridstack-angular & gridstack OK
+        ng2-gridstack & gridstack OK
+    "gauge.js": "^1.3.5",
+    "fullcalendar": "4.0.2",
+    "formatter.js": "formatter#^0.1.5",
+    "formvalidation.io": "^0.0.3",
+    "fontawesome-iconpicker": "3.2.0",
+        @fonticonpicker/react-fonticonpicker
+        font-awesome-picker for vue
+        ngx-icon-picker
+        ngx-icon-picker-fontawesome5
+    "highlight": "9.15.6",
+        markdown-code-highlighting & highlight.js OK
+        vue-highlightjs & highlight.js OK
+        react-highlight.js & highlight.js OK
+        ngx-highlight-js & highlight.js OK
+        angular-highlightjs & highlight.js OK
+
+    "html5shiv": "^3.7.3",
+    "iCheck": "^1.0.2",
+    "intro.js": "2.9.3",
+        ember-introjs & intro.js OK
+        vue-introjs & intro.js OK
+        intro.js-react & intro.js OK
+        angular-intro.js & intro.js OK
+    "isotope": "^3.0.4",
+    "jquery.cookie": "jquery-cookie#^1.4.1",
+    "jquery-asHoverScroll": "^0.3.3",
+    "jquery-pjax": "^2.0.1",
+    "jquery-selective": "^0.3.5",
+        无
+    "jquery-treegrid": "^0.3.0",
+    "jquery-wizard.js": "^0.4.4",
+    "jstree": "^3.3.5",
+        ember-cli-jstree & jstree OK
+        vue-jstree & jstree OK
+        react-jstree & jstree OK
+        ng-js-tree & jstree OK
+    "jszip": "3.2.0",
+    "jquery-slidePanel": "^0.3.5",
+    "jquery-knob": "^1.2.13",
+    "jquery-labelauty": "^1.1.4",
+    "jquery-ui": "jqueryui#^1.12.1",
+    "jt.timepicker": "^1.11.12",
+    "lodash": "4.17.12-pre",
+    "magnific-popup": "^1.1.0",
+        ember???
+        vue???
+        react-magnific-popup & magnific-popup OK
+        angular-magnific-popup & magnific-popup OK
+    "marked": "0.6.2",
+    "masonry": "^4.2.0",
+        ember-masonry-grid & masonry OK
+        react-masonry-component & masonry OK
+        vue-masonry & masonry OK
+        angular-masonry & masonry OK
+    "media-match": "^2.0.3",
+    "matchHeight": "^0.7.2",
+    "moment": "2.24.0",
+    "morris.js": "^0.5.1",
+        ember-cli-morris-charts & morris OK
+        vue-morris & morris OK
+        react???
+        angular-morris & morris OK
+    "multiselect": "^0.9.12",
+    "nestable2": "^1.6.0",
+    "nprogress": "^0.2.0",
+        ember-cli-nprogress & nprogress OK
+        vue-nprogress & nprogress OK
+        react-nprogress OK
+        ngx-progress & nprogress OK
+    "owl.carousel": "OwlCarousel2#^2.2.1",
+        ember-cli-owl-carousel2 & owl.carousel OK
+        react-owl-carousel & owl.carousel OK
+        vue-owl-carousel & owl.carousel OK
+        ngx-owl-carousel & owl.carousel OK
+        angular-owl-carousel2 & owl.carousel OK
+    "peity": "^3.2.1",
+        ember???
+        vue-peity & peity OK
+        react-peity & peity OK
+        angular-peity & peity OK
+    "plyr": "3.5.2",
+        ember-cli-plyr & plyr OK
+        vue-plyr & plyr OK
+        react-plyr & plyr OK
+        ngx-plyr & plyr OK
+    "raphael": "2.2.8",
+    "raty": "2.8.0",
+        无
+    "respond": "^1.4.2",
+    "screenfull": "4.2.0",
+       ember-cli-full-screen OK
+       vue-fullscreen OK
+       react-fullscreen & fscreen OK
+       angular-fullscreen & screenfull OK
+       angular2????
+    "rickshaw": "1.6.6",
+    "select2": "4.0.6-rc.1",
+    "skycons": "*",
+    "summernote": "0.8.11",
+    "jquery-slimscroll": "jquery-slimScroll#^1.3.8",
+        ember???
+        vue-slimscroll & jquery-slimscroll OK
+        react-slimScroll & jquery-slimscroll OK
+        ng-slim-scroll & jquery-slimscroll OK
+    "switchery": "0.8.2",
+    "timecircles": "^1.5.3",
+    "toolbar": "^1.0.1",
+        无
+    "typeahead.js": "^0.11.1",
+    "twbs-pagination": "^1.4.1",
+        无
+    "webui-popover": "2.1.15",
+        无
+    "x-editable": "^1.5.1",
+    "ag-grid-enterprise": "20.2.0",
+    "zTree": "3.5.40",
+        ember???
+        vue-ztree-2.0 & zTree OK
+        ztree-for-react & zTree OK
+        angular???
+    "mxgraph": "4.0.0",
+    "gojs": "2.0.8",
+    "jsplumb": "2.9.0",
+    "propertiesjs": "^1.6.0",
+    "layer": "^3.1.1",
+        ember???
+        vue-layer not layer OK
+        react???
+        ngx.superlayer not layer OK
+    "pixeden-stroke-7-icon": "^1.2.3",
+    "font-awesome": "4.7.0",
+        ember-fontawesome OK
+        vue-fontawesome OK
+        react-fontawesome OK
+        angular-fontawesome OK
+    "glyphicons": "^0.0.2",
+        无
+    "open-iconic": "^1.1.1",
+    "themify-icons": "^0.1.2",
+    "weather-icons": "^2.0.10",
+        react-weathericons
+        vue-weathericons
+        angularjs-weather-icons
+    "web-icons": "*",
+    "material-design-iconic-font": "^2.2.0",
+        ember-cli-material-design-icons
+        vue-material-design-icons
+        mdi-material-ui for react
+        angular-material-icons
+        angular2-material-icons
+    "seiyria-bootstrap-slider": "10.6.1",
+        ember???
+        vue-bootstrap-slider
+        ngx-bootstrap-slider
+        angular-bootstrap-slider
+    "slick-carousel": "^1.8.1",
+        ember-cli-slick & slick-carousel OK
+        react-slick OK
+        vue-slick & slick-carousel OK
+        ngx-slick & slick-carousel OK
+        angular-slick-carousel & slick-carousel OK
+    "html5sortable": "*",
+        无
+    "jquery_appear": "0.4.1",
+        无
+    "fullpage.js": "2.9.7",
+    "move.js": "visionmedia/move.js#^0.5.0",
+    "vue": "2.6.10",
+    "jQuery-wScrollspy": "willianis4w/jQuery-wScrollspy",
+    "smooth-scroll": "cferdinandi/smooth-scroll#16.0.3",
+    "jquery": "3.3.1",
+    "city-picker": "1.2.0",
+    "ckeditor": "4.11.4",
+    "highcharts": "7.1.1",
+    "ag-grid-docs": "https://github.com/ag-grid/ag-grid-docs.git#18.0.0",
+    "framework7": "4.2.2",
+    "framework7-vue": "https://github.com/framework7io/framework7-vue.git#^2.0.0",
+    "ladda": "1.0.6",
+        ember-ladda-button & ladda OK
+        react-ladda & ladda OK
+        vue-ladda & ladda OK
+        angular-ladda & ladda OK
+        angular2-ladda & ladda OK
+    "bootstrap": "4.3.1",
+    "flot": "3.0.2",
+    "ionicons": "4.5.5",
+        ember???
+        react-ionicons OK
+        vue-ionicons OK
+    "cxSelect": "https://github.com/ciaoca/cxSelect.git#^1.4.1",
+    "clippings-layout-grid": "https://github.com/clippings/layout-grid.git#2.0.0",
+        layout-grid
+    "packery": "^2.1.2",
+        ember-cli-packery & packery OK
+        vue-packery-plugin & vue-packery-draggabilly-plugin & packery OK
+        react-packery-component & packery OK
+        ngx-packery & packery OK
+        ng-packery & packery OK
+    "bootstrap-iconpicker": "^1.10.0",
+        angular-bootstrap-iconpicker
+    "jQuery-contextMenu": "^2.8.0",
+        无
+    "toastr": "https://github.com/CodeSeven/toastr.git#^2.1.4"
+        ember-toastr & toastr OK
+        react-toastr & toastr OK
+        @deveodk/vue-toastr not toastr OK
+        ngx-toastr not toastr OK
+  }
+}
