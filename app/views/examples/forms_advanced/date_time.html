@@ -472,7 +472,15 @@
                     </div>
                     <div class="col-lg-6">
                         <h4>配置项</h4>
-                        <textarea class="form-control" rows="8" id="drpConfigText" readonly="readonly"></textarea>
+                        <textarea class="form-control" rows="8" id="drpConfigText" readonly="readonly">
+$('#demo').daterangepicker({
+    "timePickerIncrement": 1,
+    "startDate": "2019-05-09",
+    "endDate": "2019-05-15"
+}, function(start, end, label) {
+    console.log("New date range selected: ' + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD') + ' (predefined range: ' + label + ')");
+});
+                        </textarea>
                     </div>
 
                 </div>

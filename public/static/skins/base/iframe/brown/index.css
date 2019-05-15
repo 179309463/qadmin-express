@@ -1,6 +1,7 @@
 
 @import url("./others/index.css");
 @import url("./others/margin-and-padding.css");
+@import url("./others/vertical-align.css");
 
 
 @import url("./alert/alert-default.css");
@@ -80,7 +81,7 @@
 @import url("./btn/btn-style/btn-style-inverse.css");
 @import url("./btn/btn-block.css");
 @import url("./btn/btn-flat.css");
-@import url("./btn/btn-floating.css");
+
 @import url("./btn/btn-icon.css");
 @import url("./btn/btn-link.css");
 @import url("./btn/btn-outline.css");
@@ -90,6 +91,8 @@
 @import url("./btn/btn-raised.css");
 
 @import url("./btn/btn-size.css");
+@import url("./btn/btn-floating.css");
+
 @import url("./btn/btn-round.css");
 @import url("./btn/btn-tagged.css");
 @import url("./btn/btn-toolbar.css");
@@ -164,7 +167,6 @@
 @import url("./navbar/nav-tabs.css");
 @import url("./navbar/nav-tabs-animate.css");
 @import url("./navbar/nav-tabs-bottom.css");
-@import url("./navbar/nav-tabs-inverse.css");
 @import url("./navbar/nav-tabs-line-top.css");
 @import url("./navbar/nav-tabs-line.css");
 @import url("./navbar/nav-tabs-reverse.css");
@@ -172,7 +174,10 @@
 @import url("./navbar/nav-tabs-size-sm.css");
 @import url("./navbar/nav-tabs-solid.css");
 @import url("./navbar/nav-tabs-vertical.css");
+@import url("./navbar/nav-tabs-inverse.css");
 
+@import url("./navbar/navbar-toolbar.css");
+@import url("./navbar/navbar-text.css");
 @import url("./navbar/navbar.css");
 @import url("./navbar/navbar-avatar.css");
 @import url("./navbar/navbar-brand.css");
@@ -194,10 +199,10 @@
 @import url("./navbar/navbar-light.css");
 @import url("./navbar/navbar-mega.css");
 @import url("./navbar/navbar-nav.css");
+@import url("./navbar/navbar-search.css");
 @import url("./navbar/navbar-sticky-top.css");
-@import url("./navbar/navbar-text.css");
 @import url("./navbar/navbar-toggle.css");
-@import url("./navbar/navbar-toolbar.css");
+
 
 
 @import url("./others/accordion.css");
@@ -211,7 +216,10 @@
 @import url("./others/col-form-label.css");
 @import url("./others/collapse.css");
 @import url("./others/color-selector.css");
+
+@import url("./others/media.css");
 @import url("./others/comment.css");
+
 @import url("./others/container.css");
 @import url("./others/counter.css");
 @import url("./others/cover.css");
@@ -245,6 +253,7 @@
 @import url("./others/form-control.css");
 @import url("./others/form-group.css");
 @import url("./others/form-horizontal.css");
+@import url("./others/form-icons.css");
 @import url("./others/form-inline.css");
 @import url("./others/form-material.css");
 @import url("./others/form-row.css");
@@ -265,7 +274,7 @@
 @import url("./others/loader.css");
 
 
-@import url("./others/media.css");
+
 @import url("./others/modal.css");
 @import url("./others/overlay.css");
 @import url("./others/pagination.css");
@@ -288,7 +297,7 @@
 @import url("./others/tooltip.css");
 @import url("./others/tooltip-bs.css");
 @import url("./others/valid-and-invalid.css");
-@import url("./others/vertical-align.css");
+
 @import url("./others/visibility.css");
 
 @import url("./others/width-and-height.css");
