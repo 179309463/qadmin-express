@@ -1,0 +1,51 @@
+
+.btn-outline-inverse,.btn-outline.btn-inverse {
+	color: #fff;
+	background-color: transparent;
+	border-color: #fff
+}
+
+.btn-outline-inverse.btn-up.active:before,
+.btn-outline-inverse.btn-up.focus:before,
+.btn-outline-inverse.btn-up.hover:before,
+.btn-outline-inverse.btn-up:active:before,
+.btn-outline-inverse.btn-up:before,
+.btn-outline-inverse.btn-up:focus:before,
+.btn-outline-inverse.btn-up:hover:before,
+.btn-outline.btn-inverse.btn-up.active:before,
+.btn-outline.btn-inverse.btn-up.focus:before,
+.btn-outline.btn-inverse.btn-up.hover:before,
+.btn-outline.btn-inverse.btn-up:active:before,
+.btn-outline.btn-inverse.btn-up:before,
+.btn-outline.btn-inverse.btn-up:focus:before,
+.btn-outline.btn-inverse.btn-up:hover:before,
+.open>.btn-outline-inverse.btn-up.dropdown-toggle:before,
+.open>.btn-outline.btn-inverse.btn-up.dropdown-toggle:before,
+.show>.btn-outline-inverse.btn-up.dropdown-toggle:before,
+.show>.btn-outline.btn-inverse.btn-up.dropdown-toggle:before {
+	border-bottom-color: #fff
+}
+
+.btn-outline-inverse.btn-right.active:before,.btn-outline-inverse.btn-right.focus:before,.btn-outline-inverse.btn-right.hover:before,.btn-outline-inverse.btn-right:active:before,.btn-outline-inverse.btn-right:before,.btn-outline-inverse.btn-right:focus:before,.btn-outline-inverse.btn-right:hover:before,.btn-outline.btn-inverse.btn-right.active:before,.btn-outline.btn-inverse.btn-right.focus:before,.btn-outline.btn-inverse.btn-right.hover:before,.btn-outline.btn-inverse.btn-right:active:before,.btn-outline.btn-inverse.btn-right:before,.btn-outline.btn-inverse.btn-right:focus:before,.btn-outline.btn-inverse.btn-right:hover:before,.open>.btn-outline-inverse.btn-right.dropdown-toggle:before,.open>.btn-outline.btn-inverse.btn-right.dropdown-toggle:before,.show>.btn-outline-inverse.btn-right.dropdown-toggle:before,.show>.btn-outline.btn-inverse.btn-right.dropdown-toggle:before {
+	border-left-color: #fff
+}
+
+.btn-outline-inverse.btn-bottom.active:before,.btn-outline-inverse.btn-bottom.focus:before,.btn-outline-inverse.btn-bottom.hover:before,.btn-outline-inverse.btn-bottom:active:before,.btn-outline-inverse.btn-bottom:before,.btn-outline-inverse.btn-bottom:focus:before,.btn-outline-inverse.btn-bottom:hover:before,.btn-outline.btn-inverse.btn-bottom.active:before,.btn-outline.btn-inverse.btn-bottom.focus:before,.btn-outline.btn-inverse.btn-bottom.hover:before,.btn-outline.btn-inverse.btn-bottom:active:before,.btn-outline.btn-inverse.btn-bottom:before,.btn-outline.btn-inverse.btn-bottom:focus:before,.btn-outline.btn-inverse.btn-bottom:hover:before,.open>.btn-outline-inverse.btn-bottom.dropdown-toggle:before,.open>.btn-outline.btn-inverse.btn-bottom.dropdown-toggle:before,.show>.btn-outline-inverse.btn-bottom.dropdown-toggle:before,.show>.btn-outline.btn-inverse.btn-bottom.dropdown-toggle:before {
+	border-top-color: #fff
+}
+
+.btn-outline-inverse.btn-left.active:be
+fore,.btn-outline-inverse.btn-left.focus:before,.btn-outline-inverse.btn-left.hover:before,.btn-outline-inverse.btn-left:active:before,.btn-outline-inverse.btn-left:before,.btn-outline-inverse.btn-left:focus:before,.btn-outline-inverse.btn-left:hover:before,.btn-outline.btn-inverse.btn-left.active:before,.btn-outline.btn-inverse.btn-left.focus:before,.btn-outline.btn-inverse.btn-left.hover:before,.btn-outline.btn-inverse.btn-left:active:before,.btn-outline.btn-inverse.btn-left:before,.btn-outline.btn-inverse.btn-left:focus:before,.btn-outline.btn-inverse.btn-left:hover:before,.open>.btn-outline-inverse.btn-left.dropdown-toggle:before,.open>.btn-outline.btn-inverse.btn-left.dropdown-toggle:before,.show>.btn-outline-inverse.btn-left.dropdown-toggle:before,.show>.btn-outline.btn-inverse.btn-left.dropdown-toggle:before {
+	border-right-color: #fff
+}
+
+.btn-outline-inverse.focus,.btn-outline-inverse.hover,.btn-outline-inverse:focus,.btn-outline-inverse:hover,.btn-outline-inverse:not([disabled]):not(.disabled).active,.btn-outline-inverse:not([disabled]):not(.disabled):active,.btn-outline.btn-inverse.focus,.btn-outline.btn-inverse.hover,.btn-outline.btn-inverse:focus,.btn-outline.btn-inverse:hover,.btn-outline.btn-inverse:not([disabled]):not(.disabled).active,.btn-outline.btn-inverse:not([disabled]):not(.disabled):active,.open>.btn-outline-inverse.dropdown-toggle,.open>.btn-outline.btn-inverse.dropdown-toggle,.show>.btn-outline-inverse.dropdown-toggle,.show>.btn-outline.btn-inverse.dropdown-toggle {
+	color: #76838f;
+	background-color: #fff;
+	border-color: #fff
+}
+
+.btn-outline-inverse.focus .badge-pill,.btn-outline-inverse.hover .badge-pill,.btn-outline-inverse:focus .badge-pill,.btn-outline-inverse:hover .badge-pill,.btn-outline-inverse:not([disabled]):not(.disabled).active .badge-pill,.btn-outline-inverse:not([disabled]):not(.disabled):active .badge-pill,.btn-outline.btn-inverse.focus .badge-pill,.btn-outline.btn-inverse.hover .badge-pill,.btn-outline.btn-inverse:focus .badge-pill,.btn-outline.btn-inverse:hover .badge-pill,.btn-outline.btn-inverse:not([disabled]):not(.disabled).active .badge-pill,.btn-outline.btn-inverse:not([disabled]):not(.disabled):active .badge-pill,.open>.btn-outline-inverse.dropdown-toggle .badge-pill,.open>.btn-outline.btn-inverse.dropdown-toggle .badge-pill,.show>.btn-outline-inverse.dropdown-toggle .badge-pill,.show>.btn-outline.btn-inverse.dropdown-toggle .badge-pill {
+	color: #fff;
+	background-color: #76838f
+}
