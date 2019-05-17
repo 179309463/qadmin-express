@@ -1,0 +1,16 @@
+
+@import url("./ribbon-style/ribbon-danger.css");
+@import url("./ribbon-style/ribbon-info.css");
+@import url("./ribbon-style/ribbon-primary.css");
+@import url("./ribbon-style/ribbon-success.css");
+@import url("./ribbon-style/ribbon-warning.css");
+
+
+@import url("./ribbon.css");
+@import url("./ribbon-badge.css");
+@import url("./ribbon-bookmark.css");
+@import url("./ribbon-clip.css");
+@import url("./ribbon-corner.css");
+@import url("./ribbon-reverse.css");
+@import url("./ribbon-size.css");
+@import url("./ribbon-vertical.css");

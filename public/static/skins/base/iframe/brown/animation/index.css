@@ -1,0 +1,19 @@
+
+@import url("./animation.css");
+@import url("./animation-style/animation-fade.css");
+@import url("./animation-style/animation-scale-down.css");
+@import url("./animation-style/animation-scale-up.css");
+@import url("./animation-style/animation-scale.css");
+@import url("./animation-style/animation-shake.css");
+@import url("./animation-style/animation-slide-bottom.css");
+@import url("./animation-style/animation-slide-left.css");
+@import url("./animation-style/animation-slide-right.css");
+@import url("./animation-style/animation-slide-top.css");
+
+@import url("./animation-delay.css");
+@import url("./animation-duration.css");
+@import url("./animation-easing.css");
+@import url("./animation-hover.css");
+@import url("./animation-origin.css");
+@import url("./animation-repeat.css");
+@import url("./animation-reverse.css");

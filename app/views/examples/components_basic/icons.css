@@ -1,6 +1,18 @@
-.bootbox .modal-dialog {
-	width: 360px
-}
+@import url("/static/skins/base/iframe/brown/others/index.css");
+@import url("/static/skins/base/iframe/brown/others/row-and-col.css");
+@import url("/static/skins/base/iframe/brown/others/margin-and-padding.css");
+@import url("/static/skins/base/iframe/brown/others/display.css");
+@import url("/static/skins/base/iframe/brown/others/link.css");
+
+@import url("/static/skins/base/iframe/brown/page/index.css");
+@import url("/static/skins/base/iframe/brown/panel/index.css");
+@import url("/static/skins/base/iframe/brown/others/example.css");
+@import url("/static/skins/base/iframe/brown/others/blocks.css");
+@import url("/static/skins/base/iframe/brown/others/input-search.css");
+@import url("/static/skins/base/iframe/brown/others/text.css");
+@import url("/static/skins/base/iframe/brown/others/vertical-align.css");
+@import url("/static/skins/base/iframe/brown/others/icon.css");
+@import url("/static/skins/base/iframe/brown/btn/index.css");
 
 .page-content .input-search {
 	max-width: 450px;

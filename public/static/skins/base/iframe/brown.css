@@ -1,0 +1,49 @@
+a {
+	color: #997b71;
+}
+
+a:hover {
+	color: #ab8c82;
+}
+
+
+code {
+	color: #716b6e;
+}
+
+kbd {
+	background-color: #997b71;
+}
+
+.btn.focus,.btn:focus {
+	box-shadow: 0 0 0 .143rem rgba(153,123,113,.25)
+}
+
+.btn:not(:disabled):not(.disabled).active:focus,.btn:not(:disabled):not(.disabled):active:focus {
+	box-shadow: 0 0 0 .143rem rgba(153,123,113,.25),inset 0 3px 5px rgba(0,0,0,.125)
+}
+
+.btn-link {
+	color: #997b71
+}
+
+.btn-link:hover {
+	color: #ab8c82
+}
+
+.nav-pills .nav-link.active,.nav-pills .show>.nav-link,.nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active {
+	background-color: #997b71
+}
+
+.page-link:hover {
+	color: #ab8c82;
+}
+
+.page-link:focus {
+	box-shadow: 0 0 0 .143rem rgba(153,123,113,.25)
+}
+
+.page-item.active .page-link {
+    background-color: #997b71;
+	border-color: #997b71
+}

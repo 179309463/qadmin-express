@@ -1,0 +1,31 @@
+
+@import url("./panel.css");
+@import url("./panel-actions.css");
+@import url("./panel-body.css");
+@import url("./panel-heading.css");
+@import url("./panel-heading-tab.css");
+@import url("./panel-bordered.css");
+@import url("./panel-content.css");
+@import url("./panel-control.css");
+@import url("./panel-desc.css");
+@import url("./panel-footer.css");
+
+@import url("./panel-group.css");
+@import url("./panel-group-continuous.css");
+@import url("./panel-group-simple.css");
+
+
+
+@import url("./panel-loading.css");
+@import url("./panel-style.css");
+@import url("./panel-line.css");
+@import url("./panel-title.css");
+@import url("./panel-toolbar.css");
+@import url("./panel-transparent.css");
+@import url("./panel.alert.css");
+
+@import url("./panel.nav-tabs.css");
+@import url("./panel.panel-collapse.css");
+
+@import url("./panel.table.css");
+@import url("./panel.table-responsive.css");
